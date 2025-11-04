@@ -259,8 +259,8 @@ POST   /api/categories       - Create category (Admin)
 
 ### Admin Account
 ```
-Email: admin@sorabrew.com
-Password: admin123
+Email: ayam@sorabrew.com
+Password: akunadmin
 ```
 
 ### Test Customer Account
